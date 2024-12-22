@@ -1,0 +1,2 @@
+# Zaloha
+zaloha_souboru
